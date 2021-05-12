@@ -24,5 +24,6 @@ footer{
 }
 
 select#sel{
-    width: 150pt;
+    width: 170pt;
+    font: normal 15pt Arial;
 }
